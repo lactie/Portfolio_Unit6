@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background:
       background-size: cover;
       color: white;
     }
@@ -9,6 +9,7 @@
     }
     h1 {
       font-size: 70px;
+      color:green;
     }
     img {
       margin: 40px 0px 0px 0px;
